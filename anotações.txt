@@ -1,0 +1,12 @@
+faculdade uniesp
+curso: ciencias da computaçao
+disciplina: tópicos essenciais para a programação
+nome: Linda Maria Santos Melo
+
+resposta da lista de exercício
+
+questão 01
+
+questão 02
+
+questão 03
